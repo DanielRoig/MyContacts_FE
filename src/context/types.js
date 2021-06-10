@@ -1,0 +1,3 @@
+export const GET_CONTACTS = "GET_CONTACTS";
+export const PROFILE_REGISTERS = "PROFILE_REGISTERS";
+
